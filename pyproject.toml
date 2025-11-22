@@ -1,0 +1,16 @@
+[project]
+name = "peft-study"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "accelerate>=1.10.1",
+    "datasets>=4.4.1",
+    "jupyter>=1.1.1",
+    "notebook>=7.5.0",
+    "peft>=0.17.1",
+    "sentencepiece>=0.2.1",
+    "torch>=2.8.0",
+    "transformers>=4.57.1",
+]
