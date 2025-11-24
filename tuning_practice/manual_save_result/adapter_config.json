@@ -1,0 +1,19 @@
+{
+  "auto_mapping": null,
+  "base_model_name_or_path": null,
+  "encoder_dropout": 0.1,
+  "encoder_hidden_size": 1024,
+  "encoder_num_layers": 3,
+  "encoder_reparameterization_type": "LSTM",
+  "inference_mode": true,
+  "modules_to_save": null,
+  "num_attention_heads": 16,
+  "num_layers": 24,
+  "num_transformer_submodules": 1,
+  "num_virtual_tokens": 10,
+  "peft_type": "P_TUNING",
+  "peft_version": "0.18.0",
+  "revision": null,
+  "task_type": "CAUSAL_LM",
+  "token_dim": 2048
+}
